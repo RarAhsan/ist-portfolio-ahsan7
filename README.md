@@ -5,10 +5,11 @@
 this is my IST portfolio. In this repository I will be adding projects and exercises fro, my ist can lass Smileys & Emotion :grinning:
 
 the basic git command to update this repo are:
-'''
+
+```
 git add .
 git commit -m "commit message"
 git push
-'''
+```
 
 ![Tux](funny-cartoon-chinese-man-illustration.jpg)
